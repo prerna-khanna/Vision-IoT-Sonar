@@ -3,13 +3,13 @@ It is an IoT SONAR System which is capable of precisely detecting the distance a
 The IoT system includes the wirelessely connected LCD Screen which is connected by Bluetooth Module HC-05.
 
 This repository includes the following:
-1. servo_test.ino
+1.servo_test.ino
 Arduino code for the Sonar System
 
 2.Processing.pde
 This is a processing code for IoT to communicate betweeen laptop bluetooth and the HC05 module with the object at remote location.
 
-3. Object.ino
+3.Object.ino
 it is an Arduino code to recieve commands from bluetooth and print on LCD screen
 
 4.Sonar video.zip
