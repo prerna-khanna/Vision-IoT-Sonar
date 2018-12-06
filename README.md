@@ -4,7 +4,7 @@ The IoT system includes the wirelessely connected LCD Screen which is connected 
 
 This repository includes the following:
 1.servo_test.ino
-Arduino code for the Sonar System
+Arduino code for the SONAR System
 
 2.Processing.pde
 This is a processing code for IoT to communicate betweeen laptop bluetooth and the HC05 module with the object at remote location.
