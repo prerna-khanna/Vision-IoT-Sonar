@@ -12,11 +12,8 @@ This is a processing code for IoT to communicate betweeen laptop bluetooth and t
 3.Object.ino
 it is an Arduino code to recieve commands from bluetooth and print on LCD screen
 
-4.Sonar video.zip
-This is the video demonstration of our VISION : The IoT SONAR
-
-5.VISION documentation.pdf
+4.VISION documentation.pdf
 This contains the entire explanation and working of SONAR system. It even includes the performance characteristics and graphs of our system.
 
-6.Vision Schematic.pdf
+5.Vision Schematic.pdf
 This includes the circuit diagram for SONAR System.
